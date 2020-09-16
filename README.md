@@ -1,2 +1,2 @@
-my first git pra
-ctice
+my first git practic
+e
